@@ -1,5 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+;I+am+Amartya+Singh+🙂)](https://git.io/typing-svg) 
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Beingstupid4me.Beingstupid4me" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amartya+Singh!+🙂;" />
+</h1>
 <p align="left">As a quick learner with an insatiable curiosity, I traverse diverse domains with equal enthusiasm. From delving into the intricate layers of operating systems, to relishing the challenge of optimizing performance and efficiency. My passion extends from digital music production, where I blend open-source tools and creativity to compose harmonious tunes, to basic animation, where I breathe life into pixels and explore the magic of motion. Simultaneously, I dive into the depths of database management systems, ensuring data integrity and seamless interactions. 
 
   On the web development front, I wield high-level frameworks to craft dynamic user experiences, while my app development journey begins with the basics, building functional and intuitive interfaces. Beyond code, my eye for design shines—I create visually appealing interfaces, leveraging tools like Figma and Sketch. 
@@ -90,11 +92,5 @@ And as I embark on my machine learning adventure, I’m excited to unravel patte
 ###
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Beingstupid4me/count.svg?"  />
-</div>
 
 ###
