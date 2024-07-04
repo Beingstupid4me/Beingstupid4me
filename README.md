@@ -1,6 +1,10 @@
-## Hi there 👋
+## Hi there 👋 
 
-<p align="left">As a quick learner with an insatiable curiosity,, I traverse diverse domains with equal enthusiasm. From delving into the intricate layers of operating systems, to relishing the challenge of optimizing performance and efficiency. My passion extends from digital music production, where I blend open-source tools and creativity to compose harmonious tunes, to basic animation, where I breathe life into pixels and explore the magic of motion. Simultaneously, I dive into the depths of database management systems, ensuring data integrity and seamless interactions. On the web development front, I wield high-level frameworks to craft dynamic user experiences, while my app development journey begins with the basics, building functional and intuitive interfaces. Beyond code, my eye for design shines—I create visually appealing interfaces, leveraging tools like Figma and Sketch. And as I embark on my machine learning adventure, I’m excited to unravel patterns and predictions in data, bridging the gap between algorithms and insights. Moreover, my strong teamwork skills allow me to collaborate effectively, bringing diverse perspectives to the table and fostering innovation.</p>
+<p align="left">As a quick learner with an insatiable curiosity, I traverse diverse domains with equal enthusiasm. From delving into the intricate layers of operating systems, to relishing the challenge of optimizing performance and efficiency. My passion extends from digital music production, where I blend open-source tools and creativity to compose harmonious tunes, to basic animation, where I breathe life into pixels and explore the magic of motion. Simultaneously, I dive into the depths of database management systems, ensuring data integrity and seamless interactions. 
+
+  On the web development front, I wield high-level frameworks to craft dynamic user experiences, while my app development journey begins with the basics, building functional and intuitive interfaces. Beyond code, my eye for design shines—I create visually appealing interfaces, leveraging tools like Figma and Sketch. 
+
+And as I embark on my machine learning adventure, I’m excited to unravel patterns and predictions in data, bridging the gap between algorithms and insights. Moreover, my strong teamwork skills allow me to collaborate effectively, bringing diverse perspectives to the table and fostering innovation.</p>
 
 ###
 
