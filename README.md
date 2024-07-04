@@ -79,7 +79,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Beingstupid4me/Beingstupid4me/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
