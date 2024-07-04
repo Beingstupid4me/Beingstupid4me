@@ -1,4 +1,4 @@
-## Hi there 👋 
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+;I+am+Amartya+Singh+🙂)](https://git.io/typing-svg) 
 
 <p align="left">As a quick learner with an insatiable curiosity, I traverse diverse domains with equal enthusiasm. From delving into the intricate layers of operating systems, to relishing the challenge of optimizing performance and efficiency. My passion extends from digital music production, where I blend open-source tools and creativity to compose harmonious tunes, to basic animation, where I breathe life into pixels and explore the magic of motion. Simultaneously, I dive into the depths of database management systems, ensuring data integrity and seamless interactions. 
 
